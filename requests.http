@@ -1,0 +1,4 @@
+GET http://localhost:3000/hello_path.json 
+
+###
+GET http://localhost:3000/99_bottles
